@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=200&section=header&text=Haruki's%20World&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=code%20%E2%9C%A6%20coffee%20%E2%9C%A6%20curiosity&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Haruki;Learning+C+%26+Assembly;Building+a+Discord+Status+Manager" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Haruki;Or+just+call+me+Lime;Learning+C+%26+Assembly;Building+a+Discord+Status+Manager" alt="Typing SVG" />
 
 <br/>
 
