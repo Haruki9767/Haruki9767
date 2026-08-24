@@ -126,23 +126,12 @@
 
 ### *"A fool admires complexity. A genius admires simplicity"*
 
-## Cute Animations ✨
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100" alt="Cute pixel character animation" style="border-radius: 50%;" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="80" alt="Sparkles" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="80" alt="Butterfly" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" width="80" alt="Computer" />
-</div>
-
-<br/>
-
-## 🦕 Dino Game
+## Dino
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800" alt="Dino Game" style="border-radius: 15px;" />
   <br/>
-  <i>When I'm not coding, I'm busy dodging obstacles 🏃‍♂️</i>
 </div>
 
 <br/>
