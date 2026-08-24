@@ -20,10 +20,10 @@
 
 About Me
 
-· Currently working on <a href="https://github.com/Haruki9767/Discord-status-manager">Discord Status Manager</a> mobile app
-· Diving deep into C and Assembly
-· Reach me anytime — links below
-· Fueled by curiosity, coffee, and clean code
+· Currently working on <a href="https://github.com/Haruki9767/Discord-status-manager">Discord Status Manager</a> mobile app<br><br>
+· Diving deep into C and Assembly<br><br>
+· Reach me anytime — links below<br><br>
+· Fueled by curiosity, coffee, and clean code<br><br>
 
 <br clear="right"/>
 
