@@ -6,8 +6,6 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Haruki9767&label=Profile%20Views&color=b088f9&style=for-the-badge)
-&nbsp;
 ![Stars](https://img.shields.io/github/stars/Haruki9767?style=for-the-badge&color=C084FC&labelColor=1a1a2e)
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
@@ -28,9 +26,7 @@
 <br clear="right"/>
 
 <div align="center">
-
-`✦ ─────────────────── ⋆⋅☆⋅⋆ ─────────────────── ✦`
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 ## Find Me Here
@@ -45,9 +41,7 @@
 </p>
 
 <div align="center">
-
-`✦ ─────────────────── ⋆⋅☆⋅⋆ ─────────────────── ✦`
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 ## Tech Universe
@@ -111,9 +105,7 @@
 </div>
 
 <div align="center">
-
-`✦ ─────────────────── ⋆⋅☆⋅⋆ ─────────────────── ✦`
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 ## GitHub Stats
@@ -129,17 +121,38 @@
 </div>
 
 <div align="center">
-
-`✦ ─────────────────── ⋆⋅☆⋅⋆ ─────────────────── ✦`
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
 
 ### *"A fool admires complexity. A genius admires simplicity"*
 
-[![](https://komarev.com/ghpvc/?username=Haruki9767&icon=0&color=a78bfa)](https://visitcount.itsvg.in)
+## Cute Animations ✨
 
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100" alt="Cute pixel character animation" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="80" alt="Sparkles" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="80" alt="Butterfly" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" width="80" alt="Computer" />
+</div>
 
-  <div style="background: linear-gradient(135deg, rgba(155, 140, 255, 0.05), rgba(243, 166, 216, 0.05)); border: 1px solid rgba(155, 140, 255, 0.2); border-radius: 25px; padding: 30px; max-width: 500px;">
-    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="120" alt="Cute pixel character animation" style="border-radius: 50%;" />
+<br/>
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:A78BFA&height=100&section=footer" width="100%"/>
+## 🦕 Dino Game
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800" alt="Dino Game" style="border-radius: 15px;" />
+  <br/>
+  <i>When I'm not coding, I'm busy dodging obstacles 🏃‍♂️</i>
+</div>
+
+<br/>
+
+<div style="background: linear-gradient(135deg, rgba(155, 140, 255, 0.05), rgba(243, 166, 216, 0.05)); border: 1px solid rgba(155, 140, 255, 0.2); border-radius: 25px; padding: 30px; max-width: 500px; margin: 0 auto;">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="120" alt="Cute pixel character animation" style="border-radius: 50%;" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:A78BFA&height=100&section=footer" width="100%"/>
 
 </div>
