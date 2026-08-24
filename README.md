@@ -136,6 +136,7 @@
 
 <br/>
 
+<div align='center">
 <div style="background: linear-gradient(135deg, rgba(155, 140, 255, 0.05), rgba(243, 166, 216, 0.05)); border: 1px solid rgba(155, 140, 255, 0.2); border-radius: 25px; padding: 30px; max-width: 500px; margin: 0 auto;">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="120" alt="Cute pixel character animation" style="border-radius: 50%;" />
 </div>
