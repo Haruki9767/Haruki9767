@@ -18,7 +18,7 @@
 
 <img align="right" width="40%" src="https://media.tenor.com/z6Njke2svYUAAAAM/chainsaw-man-csm.gif" alt="profile gif" style="border-radius: 20px;"/>
 
-About Me
+**About Me**
 
 · Currently working on <a href="https://github.com/Haruki9767/Discord-status-manager">Discord Status Manager</a> mobile app<br><br>
 · Diving deep into C and Assembly<br><br>
@@ -33,7 +33,7 @@ About Me
 
 </div>
 
-Find Me Here
+**Find Me Here**
 
 <p align="left">
   <a href="https://instagram.com/imlzme" target="_blank">
@@ -50,11 +50,11 @@ Find Me Here
 
 </div>
 
-Tech Universe
+**Tech Universe**
 
 <div align="center">
 
-Languages
+**Languages**
 
 
 <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -70,7 +70,7 @@ Languages
 
 <br/>
 
-Frameworks & Runtime
+**Frameworks & Runtime**
 
 
 <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -88,7 +88,7 @@ Frameworks & Runtime
 
 <br/>
 
-Cloud & Deployment
+**Cloud & Deployment**
 
 
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
@@ -101,7 +101,7 @@ Cloud & Deployment
 
 <br/>
 
-Databases & Tools
+**Databases & Tools**
 
 
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -120,7 +120,7 @@ Databases & Tools
 
 </div>
 
-GitHub Stats
+**GitHub Stats**
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=Haruki9767&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E5E7EB" />
