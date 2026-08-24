@@ -136,6 +136,9 @@
 
 [![](https://komarev.com/ghpvc/?username=Haruki9767&icon=0&color=a78bfa)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <div style="background: linear-gradient(135deg, rgba(155, 140, 255, 0.05), rgba(243, 166, 216, 0.05)); border: 1px solid rgba(155, 140, 255, 0.2); border-radius: 25px; padding: 30px; max-width: 500px;">
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="120" alt="Cute pixel character animation" style="border-radius: 50%;" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:A78BFA&height=100&section=footer" width="100%"/>
 
 </div>
