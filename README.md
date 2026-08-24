@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Haruki9767/Discord-status-manager" title="Open Discord Status Manager">
-    <img src="./assets/header.svg" width="100%" alt="Haruki slash Lime — code, coffee, curiosity, and a terminal-inspired animated banner" />
+    <img src="./assets/header.svg" width="100%" alt="Haruki slash Lime — code, coffee, curiosity, and an animated neon developer banner" />
   </a>
 </p>
 
@@ -26,22 +26,28 @@
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
-## `~/about-me`
-
-```text
-┌─[ lime@haruki ]─[ ~/world ]
-├─ alias      : Lime
-├─ exploring  : C + Assembly
-├─ building   : Discord Status Manager
-├─ fueled by  : curiosity + coffee + clean code
-└─ status     : always learning
-```
-
-I’m **Haruki**, also known as **Lime** — a curious developer exploring the space between low-level fundamentals and expressive software. I enjoy learning how things work beneath the surface while building projects that feel useful, personal, and a little different.
-
 <p align="center">
-  <img src="https://media.tenor.com/z6Njke2svYUAAAAM/chainsaw-man-csm.gif" width="300" alt="Animated Chainsaw Man artwork" />
+  <img src="./assets/about.svg" width="100%" alt="About Haruki, also known as Lime" />
 </p>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I’m **Haruki**, also known as **Lime** — a curious developer exploring the space between low-level fundamentals and expressive software.
+
+- Diving deeper into **C** and **Assembly**.
+- Fueled by curiosity, coffee, and clean code.
+- Always open to a thoughtful conversation or a new idea.
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.tenor.com/z6Njke2svYUAAAAM/chainsaw-man-csm.gif" width="270" alt="Animated Chainsaw Man artwork" />
+
+</td>
+</tr>
+</table>
 
 <br />
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="Animated lavender divider" /></p>
@@ -49,32 +55,15 @@ I’m **Haruki**, also known as **Lime** — a curious developer exploring the s
 
 <!-- ═══════════════════════════ STATUS ═══════════════════════════ -->
 
-## `~/current-status`
+<p align="center">
+  <img src="./assets/status-panel.svg" width="100%" alt="Current status: building Discord Status Manager and learning C and Assembly" />
+</p>
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-### Currently building
-
-<a href="https://github.com/Haruki9767/Discord-status-manager">
-  <img src="https://img.shields.io/badge/Discord%20Status%20Manager-Open%20project-A78BFA?style=for-the-badge&labelColor=171329&logo=discord&logoColor=ffffff" alt="Open Discord Status Manager project" />
-</a>
-
-A mobile app project currently in progress. I’m also diving deeper into **C** and **Assembly**, one layer at a time.
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://komarev.com/ghpvc/?username=Haruki9767&label=PROFILE%20VIEWS&color=A78BFA&style=for-the-badge" alt="Profile views" />
-
-<br /><br />
-
-<img src="https://img.shields.io/github/stars/Haruki9767?style=for-the-badge&color=C084FC&labelColor=171329&label=STARS" alt="GitHub stars" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Haruki9767/Discord-status-manager">
+    <img src="https://img.shields.io/badge/OPEN%20DISCORD%20STATUS%20MANAGER-A78BFA?style=for-the-badge&labelColor=171329&logo=discord&logoColor=ffffff" alt="Open Discord Status Manager project" />
+  </a>
+</p>
 
 <br />
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="Animated lavender divider" /></p>
@@ -146,9 +135,27 @@ A mobile app project currently in progress. I’m also diving deeper into **C** 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="Animated lavender divider" /></p>
 <br />
 
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+
+<p align="center">
+  <img src="./assets/projects.svg" width="100%" alt="Featured project: Discord Status Manager" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Haruki9767/Discord-status-manager">
+    <img src="https://img.shields.io/badge/VIEW%20SOURCE%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Discord Status Manager source on GitHub" />
+  </a>
+</p>
+
+<br />
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="Animated lavender divider" /></p>
+<br />
+
 <!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
 
-## `~/github-signals`
+<p align="center">
+  <img src="./assets/metrics.svg" width="100%" alt="GitHub signals and analytics" />
+</p>
 
 <div align="center">
 
@@ -168,6 +175,10 @@ A mobile app project currently in progress. I’m also diving deeper into **C** 
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Keep exploring animated violet footer" />
+</p>
+
 <div align="center">
 
 > “A fool admires complexity. A genius admires simplicity.”
@@ -179,11 +190,5 @@ A mobile app project currently in progress. I’m also diving deeper into **C** 
 <br /><br />
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="115" alt="Animated pixel character" />
-
-<br /><br />
-
-<a href="https://github.com/Haruki9767/Discord-status-manager">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,45:A78BFA,100:7C3AED&height=120&section=footer" width="100%" alt="Lavender gradient footer — open Discord Status Manager" />
-</a>
 
 </div>
