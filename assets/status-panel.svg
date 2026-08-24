@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 190" role="img" aria-labelledby="title desc">
+  <title id="title">Current status: building Discord Status Manager</title>
+  <desc id="desc">Violet status panel showing that Haruki is building Discord Status Manager and learning C and Assembly.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#110E24" />
+      <stop offset="1" stop-color="#24143F" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.2" />
+      <stop offset="0.5" stop-color="#F3A6D8" />
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="1256" height="166" rx="22" fill="url(#bg)" stroke="#A78BFA" stroke-opacity="0.35" stroke-width="2" />
+  <path d="M44 48 H1236" stroke="url(#accent)" stroke-width="2" />
+  <circle cx="62" cy="31" r="6" fill="#F3A6D8">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite" />
+  </circle>
+  <text x="82" y="37" fill="#D8B4FE" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="2.5">CURRENT STATUS</text>
+  <text x="66" y="95" fill="#F8FAFC" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">BUILDING DISCORD STATUS MANAGER</text>
+  <text x="68" y="132" fill="#CBD5E1" font-size="17" font-family="Arial, Helvetica, sans-serif">mobile app in progress  /  learning C and Assembly</text>
+  <g transform="translate(1130 94)">
+    <circle r="38" fill="#7C3AED" opacity="0.25">
+      <animate attributeName="r" values="32;46;32" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle r="14" fill="#C084FC" />
+    <path d="M-7 0 H7 M0 -7 V7" stroke="#FFFFFF" stroke-opacity="0.8" stroke-width="2" />
+  </g>
+</svg>
