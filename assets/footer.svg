@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 220" role="img" aria-labelledby="title desc">
+  <title id="title">Keep exploring</title>
+  <desc id="desc">Animated violet footer with layered waves and the message keep exploring.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0918" />
+      <stop offset="0.5" stop-color="#171329" />
+      <stop offset="1" stop-color="#2B1646" />
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.1" />
+      <stop offset="0.5" stop-color="#F3A6D8" stop-opacity="0.8" />
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.1" />
+    </linearGradient>
+    <radialGradient id="footerGlow">
+      <stop offset="0" stop-color="#C084FC" stop-opacity="0.45" />
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect x="12" y="12" width="1256" height="196" rx="26" fill="url(#bg)" stroke="#A78BFA" stroke-opacity="0.34" stroke-width="2" />
+  <ellipse cx="640" cy="178" rx="300" ry="90" fill="url(#footerGlow)">
+    <animate attributeName="rx" values="250;340;250" dur="8s" repeatCount="indefinite" />
+  </ellipse>
+  <path d="M12 142 C170 84 270 194 430 136 S690 84 820 140 1080 192 1268 112" fill="none" stroke="url(#wave)" stroke-width="3">
+    <animate attributeName="d" values="M12 142 C170 84 270 194 430 136 S690 84 820 140 1080 192 1268 112;M12 120 C170 185 280 80 440 142 S690 182 820 115 1080 74 1268 142;M12 142 C170 84 270 194 430 136 S690 84 820 140 1080 192 1268 112" dur="9s" repeatCount="indefinite" />
+  </path>
+  <path d="M12 162 C170 104 270 214 430 156 S690 104 820 160 1080 212 1268 132" fill="none" stroke="#A78BFA" stroke-opacity="0.28" stroke-width="2" />
+  <text x="640" y="74" text-anchor="middle" fill="#C084FC" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="4">END OF TRANSMISSION</text>
+  <text x="640" y="116" text-anchor="middle" fill="#F8FAFC" font-size="32" font-weight="700" font-family="Arial, Helvetica, sans-serif">KEEP EXPLORING</text>
+  <circle cx="640" cy="164" r="5" fill="#F3A6D8">
+    <animate attributeName="r" values="4;9;4" dur="2.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.5s" repeatCount="indefinite" />
+  </circle>
+</svg>
