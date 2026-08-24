@@ -123,9 +123,6 @@
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Haruki9767&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Haruki9767&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haruki9767&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=E5E7EB" width="95%"/>
