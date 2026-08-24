@@ -141,7 +141,6 @@ GitHub Stats
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200" alt="Dinosaur game" style="border-radius: 15px;"/>
 
-<img src="https://komarev.com/ghpvc/?username=Haruki9767&icon=0&color=a78bfa" />
 
 <div style="background: linear-gradient(135deg, rgba(155, 140, 255, 0.05), rgba(243, 166, 216, 0.05)); border: 1px solid rgba(155, 140, 255, 0.2); border-radius: 25px; padding: 30px; max-width: 500px;">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="120" alt="Cute pixel character animation" style="border-radius: 50%;" />
