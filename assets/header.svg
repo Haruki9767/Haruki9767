@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Haruki slash Lime — code, coffee, curiosity</title>
+  <desc id="desc">A dark violet animated developer banner with a glowing orb, perspective grid, terminal cursor, and the text Haruki slash Lime.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090817" />
+      <stop offset="52%" stop-color="#171329" />
+      <stop offset="100%" stop-color="#291746" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F3A6D8" stop-opacity="0.95" />
+      <stop offset="42%" stop-color="#C084FC" stop-opacity="0.58" />
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F3A6D8" />
+      <stop offset="45%" stop-color="#C084FC" />
+      <stop offset="100%" stop-color="#7C3AED" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0" />
+      <stop offset="50%" stop-color="#F3A6D8" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0" />
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28" />
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse" patternTransform="perspective(500px) rotateX(58deg) scale(1.15)">
+      <path d="M 54 0 L 0 0 0 54" fill="none" stroke="#A78BFA" stroke-opacity="0.14" stroke-width="1" />
+    </pattern>
+    <clipPath id="panelClip">
+      <rect x="28" y="28" width="1224" height="364" rx="28" />
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="420" fill="#090817" />
+  <rect x="28" y="28" width="1224" height="364" rx="28" fill="url(#bg)" stroke="#A78BFA" stroke-opacity="0.35" stroke-width="2" />
+
+  <g clip-path="url(#panelClip)">
+    <ellipse cx="1000" cy="150" rx="260" ry="230" fill="url(#glow)" filter="url(#blur)">
+      <animate attributeName="cx" values="1000;950;1000" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="150;185;150" dur="8s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="230" cy="360" rx="250" ry="110" fill="#7C3AED" opacity="0.18" filter="url(#blur)">
+      <animate attributeName="opacity" values="0.12;0.26;0.12" dur="7s" repeatCount="indefinite" />
+    </ellipse>
+
+    <rect x="28" y="225" width="1224" height="230" fill="url(#grid)" opacity="0.75" />
+    <path d="M28 270 H1252" stroke="url(#line)" stroke-width="2" opacity="0.62">
+      <animate attributeName="y1" values="270;300;270" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="y2" values="270;300;270" dur="5s" repeatCount="indefinite" />
+    </path>
+    <path d="M150 390 L515 220 M340 410 L630 220 M1080 390 L790 220 M900 410 L740 220" stroke="#C084FC" stroke-opacity="0.15" fill="none" />
+
+    <g transform="translate(88 80)">
+      <rect x="0" y="0" width="264" height="34" rx="17" fill="#0D0B1E" stroke="#A78BFA" stroke-opacity="0.48" />
+      <circle cx="18" cy="17" r="5" fill="#F3A6D8">
+        <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
+      </circle>
+      <text x="34" y="22" fill="#D8B4FE" font-size="13" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.2">STATUS: CURIOUS</text>
+    </g>
+
+    <text x="88" y="190" fill="#F8FAFC" font-size="64" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-2">HARUKI <tspan fill="#C084FC">/</tspan> LIME</text>
+    <text x="92" y="230" fill="#CBD5E1" font-size="18" font-family="Arial, Helvetica, sans-serif" letter-spacing="3">CODE  /  COFFEE  /  CURIOSITY</text>
+
+    <g transform="translate(92 278)">
+      <text x="0" y="0" fill="#A78BFA" font-size="18" font-family="Courier New, Courier, monospace">&gt; learning_c_and_assembly</text>
+      <rect x="294" y="-18" width="11" height="22" rx="2" fill="#F3A6D8">
+        <animate attributeName="opacity" values="1;0;1" dur="1.15s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <text x="92" y="318" fill="#94A3B8" font-size="15" font-family="Courier New, Courier, monospace">building: discord_status_manager</text>
+
+    <g transform="translate(1000 214)" filter="url(#softGlow)">
+      <circle r="86" fill="url(#glow)" opacity="0.88">
+        <animate attributeName="r" values="76;94;76" dur="5s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.55;0.92;0.55" dur="5s" repeatCount="indefinite" />
+      </circle>
+      <circle r="52" fill="url(#orb)" opacity="0.9">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite" />
+      </circle>
+      <path d="M-52 0 H52 M0 -52 V52" stroke="#FFFFFF" stroke-opacity="0.42" stroke-width="1" />
+      <circle r="8" fill="#FFFFFF" opacity="0.9">
+        <animate attributeName="r" values="5;10;5" dur="2.8s" repeatCount="indefinite" />
+      </circle>
+    </g>
+
+    <g fill="#F3A6D8">
+      <circle cx="490" cy="84" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite" /></circle>
+      <circle cx="720" cy="112" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="2.7s" repeatCount="indefinite" /></circle>
+      <circle cx="1150" cy="88" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite" /></circle>
+    </g>
+  </g>
+
+  <rect x="28" y="28" width="1224" height="364" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" />
+</svg>
