@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 190" role="img" aria-labelledby="title desc">
+  <title id="title">Featured project: Discord Status Manager</title>
+  <desc id="desc">Decorative project panel with a violet glass card, project name, and a moving accent line.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0A18" />
+      <stop offset="0.54" stop-color="#19122E" />
+      <stop offset="1" stop-color="#30164D" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.2" />
+      <stop offset="0.5" stop-color="#F3A6D8" />
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="1256" height="166" rx="22" fill="url(#bg)" stroke="#C084FC" stroke-opacity="0.35" stroke-width="2" />
+  <g transform="translate(66 58)">
+    <rect width="70" height="70" rx="18" fill="#5865F2" opacity="0.9" />
+    <path d="M22 30c8-7 18-7 26 0 4 6 6 13 6 21-7 6-13 9-19 9s-12-3-19-9c0-8 2-15 6-21Z" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" />
+    <circle cx="29" cy="51" r="3" fill="#FFFFFF" />
+    <circle cx="41" cy="51" r="3" fill="#FFFFFF" />
+    <path d="M29 39c4-3 8-3 12 0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" />
+  </g>
+  <text x="170" y="70" fill="#C084FC" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="3">02  /  FEATURED BUILD</text>
+  <text x="170" y="111" fill="#F8FAFC" font-size="34" font-weight="700" font-family="Arial, Helvetica, sans-serif">DISCORD STATUS MANAGER</text>
+  <text x="170" y="143" fill="#CBD5E1" font-size="16" font-family="Arial, Helvetica, sans-serif">a mobile app project currently in progress</text>
+  <path d="M170 160 H1100" stroke="url(#accent)" stroke-width="2" stroke-dasharray="18 12">
+    <animate attributeName="stroke-dashoffset" values="0;-120" dur="4s" repeatCount="indefinite" />
+  </path>
+  <g transform="translate(1174 95)">
+    <circle r="35" fill="none" stroke="#A78BFA" stroke-opacity="0.35" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite" />
+    </circle>
+    <path d="M-9 0 H9 M0 -9 V9" stroke="#F3A6D8" stroke-width="2" />
+  </g>
+</svg>
