@@ -6,7 +6,21 @@
   </a>
 </p>
 
-<p align="center">
+<table>
+<tr>
+<td width="28%" align="center" valign="middle">
+
+<img src="https://media.tenor.com/z6Njke2svYUAAAAM/chainsaw-man-csm.gif" width="180" alt="Chainsaw Man animated profile picture" />
+
+</td>
+<td width="72%" valign="middle">
+
+<p align="left">
+  <strong>HARUKI / LIME</strong><br />
+  Curious developer exploring low-level fundamentals and expressive software.
+</p>
+
+<p align="left">
   <a href="mailto:schwan671@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Email" />
   </a>
@@ -20,6 +34,10 @@
   </a>
 </p>
 
+</td>
+</tr>
+</table>
+
 <br />
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="Animated lavender divider" /></p>
 <br />
@@ -30,24 +48,15 @@
   <img src="./assets/about.svg" width="100%" alt="About Haruki, also known as Lime" />
 </p>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<div align="center">
 
 I’m **Haruki**, also known as **Lime** — a curious developer exploring the space between low-level fundamentals and expressive software.
 
-- Diving deeper into **C** and **Assembly**.
-- Fueled by curiosity, coffee, and clean code.
-- Always open to a thoughtful conversation or a new idea.
+</div>
 
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://media.tenor.com/z6Njke2svYUAAAAM/chainsaw-man-csm.gif" width="270" alt="Animated Chainsaw Man artwork" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  Diving deeper into <strong>C</strong> and <strong>Assembly</strong> · fueled by curiosity, coffee, and clean code · always open to a thoughtful conversation.
+</p>
 
 <br />
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="Animated lavender divider" /></p>
