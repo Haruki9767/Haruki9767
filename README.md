@@ -174,7 +174,7 @@ I’m **Haruki**, also known as **Lime** — a curious developer exploring the s
 
 <br /><br />
 
-<img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=Haruki9767&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=E5E7EB" width="96%" alt="Haruki's GitHub activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haruki9767&theme=radical" width="96%" alt="Haruki's GitHub activity graph" />
 
 </div>
 
